@@ -1,0 +1,19 @@
+body {
+}
+
+h1 {
+	text-align: center;
+}
+
+#contents {
+	justify-content: center;
+	display: flex;
+}
+
+.left {
+	order: 1;
+}
+
+.right {
+	order: 2;
+}
