@@ -22,8 +22,8 @@ $letter = $arr[2];
 
 <div class="right">
 	<ul id="characteristics">
-	<li>Color: <?=$shape?></li>
-		<li>Shape: <?=$color?></li>
+	<li>Shape: <?=$shape?></li>
+		<li>Color: <?=$color?></li>
 		<li>Letter: <?=$letter?></li>
 	</ul>
 </div>

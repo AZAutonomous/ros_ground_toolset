@@ -1,4 +1,0 @@
-# OpenCV 2 or higher
-numpy
-tensorflow-gpu
-utm
